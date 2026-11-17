@@ -1,0 +1,39 @@
+name: Report a bug
+description: Something in NOVA isn't working
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping make NOVA better! Please check the [help page](https://getnovaclient.com/help.html) first.
+        **Never post passwords, codes or tokens here.** This page is public.
+  - type: textarea
+    id: what
+    attributes:
+      label: What went wrong?
+      description: What were you doing, what did you expect, and what happened instead?
+      placeholder: I clicked Launch on my 1.21.11 Fabric setup and…
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can it be made to happen again?
+      placeholder: |
+        1. Open NOVA
+        2. Go to …
+        3. Click …
+  - type: textarea
+    id: report
+    attributes:
+      label: NOVA problem report
+      description: In NOVA, open ••• → Report a problem → Copy report, then paste it here. Private details are already removed, but read it before posting.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots (optional)
+      description: Drag images here.

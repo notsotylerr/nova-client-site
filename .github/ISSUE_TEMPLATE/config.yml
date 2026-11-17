@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Help and common questions
+    url: https://getnovaclient.com/help.html
+    about: Answers to the most common problems (sign-in, Windows warning, updates).

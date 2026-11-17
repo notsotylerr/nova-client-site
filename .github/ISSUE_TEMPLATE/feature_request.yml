@@ -1,0 +1,17 @@
+name: Suggest an idea
+description: Something you'd like NOVA to do
+title: "[Idea] "
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like NOVA to do, and why would it help you?
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else? (optional)
+      description: Examples, other launchers that do it, mockups or screenshots.
