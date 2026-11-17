@@ -1,7 +1,7 @@
 {
-    "version":  "0.4.4",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.4/NOVA-Setup.exe",
-    "sha256":  "cc6cfad35db8b501e61f604c151feafc84b69437677b5bfd108888364aa3c9f6",
-    "size":  105083392,
-    "notes":  "Automatic updates"
+    "version":  "0.4.5",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.5/NOVA-Setup.exe",
+    "sha256":  "446eae3384900e3049114d0f92360eaaa855ce256a172212d5bdf8b268ed9d9c",
+    "size":  105101824,
+    "notes":  "Steve wardrobe with your own skin when signed in, version in the corner, import from other launchers"
 }
