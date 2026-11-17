@@ -2,7 +2,7 @@
 
 Website for **Nova Client**, a Minecraft: Java Edition client by NotSoTylerr.
 
-Live site: https://novaclient.com
+Live site: https://getnovaclient.com
 
 ## What's on the site
 
