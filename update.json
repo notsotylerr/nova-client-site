@@ -1,13 +1,13 @@
 {
-    "version":  "0.4.7",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.7/NOVA-Setup.exe",
-    "sha256":  "a84e1f37cf6101aa435c3e2ffe0a8180174cd9a7d3f222a37aaf16342f55c90d",
-    "size":  104525312,
-    "notes":  "New logo, purple theme, Rust edition, your face on the account button, playtime, screenshots gallery, Discord launcher status",
+    "version":  "0.4.8",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.8/NOVA-Setup.exe",
+    "sha256":  "4b08faa57b0e49dba94ca4577b0d310bfa5a9d80d8c55eddaafb6cc63f2e9fdf",
+    "size":  104195072,
+    "notes":  "Sharper backgrounds, your screenshots as setup pictures, smoother motion",
     "previous":  {
-                     "version":  "0.4.6",
-                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.6/NOVA-Setup.exe",
-                     "sha256":  "63bd56e3948e9e404f793de00ad3f576ceb0b5587a233376b5338079bc9fddb2",
-                     "size":  105127936
+                     "version":  "0.4.7",
+                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.7/NOVA-Setup.exe",
+                     "sha256":  "a84e1f37cf6101aa435c3e2ffe0a8180174cd9a7d3f222a37aaf16342f55c90d",
+                     "size":  104525312
                  }
 }
