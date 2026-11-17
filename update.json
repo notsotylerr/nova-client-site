@@ -1,13 +1,13 @@
 {
-    "version":  "0.4.6",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.6/NOVA-Setup.exe",
-    "sha256":  "63bd56e3948e9e404f793de00ad3f576ceb0b5587a233376b5338079bc9fddb2",
-    "size":  105127936,
-    "notes":  "What\u0027s new popup, report a problem, help page, mod update alerts, share as .mrpack, wear skins in Minecraft",
+    "version":  "0.4.7",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.7/NOVA-Setup.exe",
+    "sha256":  "a84e1f37cf6101aa435c3e2ffe0a8180174cd9a7d3f222a37aaf16342f55c90d",
+    "size":  104525312,
+    "notes":  "New logo, purple theme, Rust edition, your face on the account button, playtime, screenshots gallery, Discord launcher status",
     "previous":  {
-                     "version":  "0.4.5",
-                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.5/NOVA-Setup.exe",
-                     "sha256":  "446eae3384900e3049114d0f92360eaaa855ce256a172212d5bdf8b268ed9d9c",
-                     "size":  105101824
+                     "version":  "0.4.6",
+                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.6/NOVA-Setup.exe",
+                     "sha256":  "63bd56e3948e9e404f793de00ad3f576ceb0b5587a233376b5338079bc9fddb2",
+                     "size":  105127936
                  }
 }
