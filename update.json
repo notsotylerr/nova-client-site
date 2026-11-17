@@ -1,0 +1,7 @@
+{
+    "version":  "0.4.4",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.4/NOVA-Setup.exe",
+    "sha256":  "cc6cfad35db8b501e61f604c151feafc84b69437677b5bfd108888364aa3c9f6",
+    "size":  105083392,
+    "notes":  "Automatic updates"
+}

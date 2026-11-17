@@ -180,7 +180,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
 
 <script>
 // Put your installer link here (for example a GitHub Releases URL). Leave empty to show "Coming soon".
-var DOWNLOAD_URL = "";
+var DOWNLOAD_URL = "https://github.com/notsotylerr/nova-client-site/releases/latest/download/NOVA-Setup.exe";
 document.querySelectorAll(".dl").forEach(function(b){
   if (DOWNLOAD_URL) { b.href = DOWNLOAD_URL; }
   else if (b.id === "download" || b.closest(".cta")) { b.classList.add("off"); b.textContent = "Download coming soon"; b.removeAttribute("href"); }
