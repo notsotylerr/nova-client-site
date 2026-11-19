@@ -1,13 +1,13 @@
 {
-    "version":  "0.4.8",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.8/NOVA-Setup.exe",
-    "sha256":  "4b08faa57b0e49dba94ca4577b0d310bfa5a9d80d8c55eddaafb6cc63f2e9fdf",
-    "size":  104195072,
-    "notes":  "Sharper backgrounds, your screenshots as setup pictures, smoother motion",
+    "version":  "0.4.9",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.9/NOVA-Setup.exe",
+    "sha256":  "1868ad5e4d47a8de22b78fef3a04417614bf6f0e6d3cc0c0da3b3c197eabbe9c",
+    "size":  104200192,
+    "notes":  "Added loading optimization setup, optional experimental C2ME threaded chunk loading, and reversible six-chunk mode.",
     "previous":  {
-                     "version":  "0.4.7",
-                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.7/NOVA-Setup.exe",
-                     "sha256":  "a84e1f37cf6101aa435c3e2ffe0a8180174cd9a7d3f222a37aaf16342f55c90d",
-                     "size":  104525312
+                     "version":  "0.4.8",
+                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.8/NOVA-Setup.exe",
+                     "sha256":  "4b08faa57b0e49dba94ca4577b0d310bfa5a9d80d8c55eddaafb6cc63f2e9fdf",
+                     "size":  104195072
                  }
 }
