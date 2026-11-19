@@ -1,13 +1,13 @@
 {
-    "version":  "0.4.10",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.10/NOVA-Setup.exe",
-    "sha256":  "b8c51722685d1ff4a5f99ec05bc604638427b195dde2eda9f86997a811cc4a71",
-    "size":  104210944,
-    "notes":  "Added optional NOVA controls directly to Minecraft Video Settings: six-chunk preset, restore distances, LOD-provider links and performance measurements. Removed the separate custom settings screen.",
+    "version":  "0.4.11",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.11/NOVA-Setup.exe",
+    "sha256":  "a0f47099758c390462c73664ffe8a4aeab8c1d93d6707a94550c51447b2d161e",
+    "size":  104251904,
+    "notes":  "Added Fabric 1.21.11 settings addon with native VulkanMod and Sodium integration, adaptive render distance, background FPS limits, reduced-entity controls and reversible Voxy LOD presets. Existing instances must install/update the matching NOVA addon from Client and restart Minecraft. Gameplay validation remains ongoing.",
     "previous":  {
-                     "version":  "0.4.9",
-                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.9/NOVA-Setup.exe",
-                     "sha256":  "1868ad5e4d47a8de22b78fef3a04417614bf6f0e6d3cc0c0da3b3c197eabbe9c",
-                     "size":  104200192
+                     "version":  "0.4.10",
+                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.10/NOVA-Setup.exe",
+                     "sha256":  "b8c51722685d1ff4a5f99ec05bc604638427b195dde2eda9f86997a811cc4a71",
+                     "size":  104210944
                  }
 }
