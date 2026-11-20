@@ -1,13 +1,13 @@
 {
-    "version":  "0.4.13",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.13/NOVA-Setup.exe",
-    "sha256":  "78269136d9645bb1fb740d83cf4d20fb878469487323da44d2b7727fa915ab74",
-    "size":  104266240,
-    "notes":  "You can now close NOVA while Minecraft keeps running. Reopening NOVA detects the running game. Improved detached-session tracking and safe game-log handling.",
+    "version":  "0.4.14",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.14/NOVA-Setup.exe",
+    "sha256":  "5ddfae9084ac3f9c7b0b316b91c7f0eaa65d551997de8f4a87428b598c2304d3",
+    "size":  104300544,
+    "notes":  "Added pre-launch checks for declared mod compatibility, duplicate mods, missing dependencies and renderer conflicts. Improved Downloads with transfer speed, remaining bytes, estimated time when known, active files, retry status and pause/resume controls.",
     "previous":  {
-                     "version":  "0.4.12",
-                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.12/NOVA-Setup.exe",
-                     "sha256":  "f2a0f26de136ac42479ae505767cd9ce68831301abedb7802b90c6f5aa29db34",
-                     "size":  104258560
+                     "version":  "0.4.13",
+                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.13/NOVA-Setup.exe",
+                     "sha256":  "78269136d9645bb1fb740d83cf4d20fb878469487323da44d2b7727fa915ab74",
+                     "size":  104266240
                  }
 }
