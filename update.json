@@ -1,13 +1,13 @@
 {
-    "version":  "0.4.11",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.11/NOVA-Setup.exe",
-    "sha256":  "a0f47099758c390462c73664ffe8a4aeab8c1d93d6707a94550c51447b2d161e",
-    "size":  104251904,
-    "notes":  "Added Fabric 1.21.11 settings addon with native VulkanMod and Sodium integration, adaptive render distance, background FPS limits, reduced-entity controls and reversible Voxy LOD presets. Existing instances must install/update the matching NOVA addon from Client and restart Minecraft. Gameplay validation remains ongoing.",
+    "version":  "0.4.12",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.12/NOVA-Setup.exe",
+    "sha256":  "f2a0f26de136ac42479ae505767cd9ce68831301abedb7802b90c6f5aa29db34",
+    "size":  104258560,
+    "notes":  "Disabled standard particles by default with a toggle, added Entity Culling to reviewed addon installation, reduced HUD and telemetry overhead, and bundled NOVA\u0027s public Microsoft sign-in configuration. Update the matching addon from Client and restart Minecraft. FPS gains remain unmeasured.",
     "previous":  {
-                     "version":  "0.4.10",
-                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.10/NOVA-Setup.exe",
-                     "sha256":  "b8c51722685d1ff4a5f99ec05bc604638427b195dde2eda9f86997a811cc4a71",
-                     "size":  104210944
+                     "version":  "0.4.11",
+                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.11/NOVA-Setup.exe",
+                     "sha256":  "a0f47099758c390462c73664ffe8a4aeab8c1d93d6707a94550c51447b2d161e",
+                     "size":  104251904
                  }
 }
