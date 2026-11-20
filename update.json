@@ -1,13 +1,13 @@
 {
-    "version":  "0.4.12",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.12/NOVA-Setup.exe",
-    "sha256":  "f2a0f26de136ac42479ae505767cd9ce68831301abedb7802b90c6f5aa29db34",
-    "size":  104258560,
-    "notes":  "Disabled standard particles by default with a toggle, added Entity Culling to reviewed addon installation, reduced HUD and telemetry overhead, and bundled NOVA\u0027s public Microsoft sign-in configuration. Update the matching addon from Client and restart Minecraft. FPS gains remain unmeasured.",
+    "version":  "0.4.13",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.13/NOVA-Setup.exe",
+    "sha256":  "78269136d9645bb1fb740d83cf4d20fb878469487323da44d2b7727fa915ab74",
+    "size":  104266240,
+    "notes":  "You can now close NOVA while Minecraft keeps running. Reopening NOVA detects the running game. Improved detached-session tracking and safe game-log handling.",
     "previous":  {
-                     "version":  "0.4.11",
-                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.11/NOVA-Setup.exe",
-                     "sha256":  "a0f47099758c390462c73664ffe8a4aeab8c1d93d6707a94550c51447b2d161e",
-                     "size":  104251904
+                     "version":  "0.4.12",
+                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.12/NOVA-Setup.exe",
+                     "sha256":  "f2a0f26de136ac42479ae505767cd9ce68831301abedb7802b90c6f5aa29db34",
+                     "size":  104258560
                  }
 }
