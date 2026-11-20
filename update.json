@@ -1,13 +1,13 @@
 {
-    "version":  "0.4.14",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.14/NOVA-Setup.exe",
-    "sha256":  "5ddfae9084ac3f9c7b0b316b91c7f0eaa65d551997de8f4a87428b598c2304d3",
-    "size":  104300544,
-    "notes":  "Added pre-launch checks for declared mod compatibility, duplicate mods, missing dependencies and renderer conflicts. Improved Downloads with transfer speed, remaining bytes, estimated time when known, active files, retry status and pause/resume controls.",
+    "version":  "0.4.15",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.15/NOVA-Setup.exe",
+    "sha256":  "a48f5cf03b5e0814c46ffb9798a3024a8a7f3c0af07a47dd681bf277b8005bf9",
+    "size":  104302080,
+    "notes":  "Added Launch anyway to compatibility warnings, allowing players to attempt launching without changing their mods.",
     "previous":  {
-                     "version":  "0.4.13",
-                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.13/NOVA-Setup.exe",
-                     "sha256":  "78269136d9645bb1fb740d83cf4d20fb878469487323da44d2b7727fa915ab74",
-                     "size":  104266240
+                     "version":  "0.4.14",
+                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.14/NOVA-Setup.exe",
+                     "sha256":  "5ddfae9084ac3f9c7b0b316b91c7f0eaa65d551997de8f4a87428b598c2304d3",
+                     "size":  104300544
                  }
 }
