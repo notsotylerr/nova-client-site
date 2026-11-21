@@ -1,13 +1,13 @@
 {
-    "version":  "0.4.16",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.16/NOVA-Setup.exe",
-    "sha256":  "1ea30fd747a9323bce1b88ff4a7ee15a43f59b35cddaa6506a689370d3cbb448",
-    "size":  104361472,
-    "notes":  "Added reviewed instance optimization with Undo, compatible spark diagnostics, cached launch checks, reduced launcher background activity, and a 1.21.11 Video Settings frame recorder.",
+    "version":  "0.4.17",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.17/NOVA-Setup.exe",
+    "sha256":  "a8d26c975ee1c23a33abdaf24009af9454d08af8ac673c1cd116a7f5bbfff3c3",
+    "size":  104370688,
+    "notes":  "Added automatic compatible spark setup with opt-outs, a reversible Smooth Exploration preset, and an optional experimental C2ME chunk-loading review.",
     "previous":  {
-                     "version":  "0.4.15",
-                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.15/NOVA-Setup.exe",
-                     "sha256":  "a48f5cf03b5e0814c46ffb9798a3024a8a7f3c0af07a47dd681bf277b8005bf9",
-                     "size":  104302080
+                     "version":  "0.4.16",
+                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.16/NOVA-Setup.exe",
+                     "sha256":  "1ea30fd747a9323bce1b88ff4a7ee15a43f59b35cddaa6506a689370d3cbb448",
+                     "size":  104361472
                  }
 }
