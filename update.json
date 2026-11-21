@@ -1,13 +1,13 @@
 {
-    "version":  "0.4.15",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.15/NOVA-Setup.exe",
-    "sha256":  "a48f5cf03b5e0814c46ffb9798a3024a8a7f3c0af07a47dd681bf277b8005bf9",
-    "size":  104302080,
-    "notes":  "Added Launch anyway to compatibility warnings, allowing players to attempt launching without changing their mods.",
+    "version":  "0.4.16",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.16/NOVA-Setup.exe",
+    "sha256":  "1ea30fd747a9323bce1b88ff4a7ee15a43f59b35cddaa6506a689370d3cbb448",
+    "size":  104361472,
+    "notes":  "Added reviewed instance optimization with Undo, compatible spark diagnostics, cached launch checks, reduced launcher background activity, and a 1.21.11 Video Settings frame recorder.",
     "previous":  {
-                     "version":  "0.4.14",
-                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.14/NOVA-Setup.exe",
-                     "sha256":  "5ddfae9084ac3f9c7b0b316b91c7f0eaa65d551997de8f4a87428b598c2304d3",
-                     "size":  104300544
+                     "version":  "0.4.15",
+                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.15/NOVA-Setup.exe",
+                     "sha256":  "a48f5cf03b5e0814c46ffb9798a3024a8a7f3c0af07a47dd681bf277b8005bf9",
+                     "size":  104302080
                  }
 }
