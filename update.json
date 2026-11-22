@@ -1,13 +1,13 @@
 {
-    "version":  "0.4.17",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.17/NOVA-Setup.exe",
-    "sha256":  "a8d26c975ee1c23a33abdaf24009af9454d08af8ac673c1cd116a7f5bbfff3c3",
-    "size":  104370688,
-    "notes":  "Added automatic compatible spark setup with opt-outs, a reversible Smooth Exploration preset, and an optional experimental C2ME chunk-loading review.",
+    "version":  "0.4.18",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.18/NOVA-Setup.exe",
+    "sha256":  "498415c32a589adbc2ddfaa4fa4275f8a428a16da98e70e516a3aefcecaafa8e",
+    "size":  104435200,
+    "notes":  "Reduced HUD overhead, added compatible batching and block-entity optimization reviews, optional distant item glint reduction, local CPU/allocation profiling, and isolated Sodium/Vulkan comparisons.",
     "previous":  {
-                     "version":  "0.4.16",
-                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.16/NOVA-Setup.exe",
-                     "sha256":  "1ea30fd747a9323bce1b88ff4a7ee15a43f59b35cddaa6506a689370d3cbb448",
-                     "size":  104361472
+                     "version":  "0.4.17",
+                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.17/NOVA-Setup.exe",
+                     "sha256":  "a8d26c975ee1c23a33abdaf24009af9454d08af8ac673c1cd116a7f5bbfff3c3",
+                     "size":  104370688
                  }
 }
