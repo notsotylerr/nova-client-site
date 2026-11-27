@@ -1,13 +1,13 @@
 {
-    "version":  "0.4.19",
-    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.19/NOVA-Setup.exe",
-    "sha256":  "85137279b65389c5a3c1d4f6f5e2b6acd501d7d41c7cbbb592ec0a69c07faf89",
-    "size":  104440320,
-    "notes":  "Improved frame pacing, removed forced Vulkan upload bursts, reduced render-thread overhead, paused launcher background work during gameplay, and added a reversible Stability reset while preserving graphics settings and FPS caps.",
+    "version":  "0.4.20",
+    "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.20/NOVA-Setup.exe",
+    "sha256":  "d2a7351d19e5b359375be453baf105d6af35b1050902137f92db07c51ff257b0",
+    "size":  104442880,
+    "notes":  "Fixed modpack imports failing on long Windows Java runtime paths, corrected concurrent installer hooks, and preserved outside-instance path protection.",
     "previous":  {
-                     "version":  "0.4.18",
-                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.18/NOVA-Setup.exe",
-                     "sha256":  "498415c32a589adbc2ddfaa4fa4275f8a428a16da98e70e516a3aefcecaafa8e",
-                     "size":  104435200
+                     "version":  "0.4.19",
+                     "installer_url":  "https://github.com/notsotylerr/nova-client-site/releases/download/v0.4.19/NOVA-Setup.exe",
+                     "sha256":  "85137279b65389c5a3c1d4f6f5e2b6acd501d7d41c7cbbb592ec0a69c07faf89",
+                     "size":  104440320
                  }
 }
